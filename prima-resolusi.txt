@@ -1,3 +1,4 @@
 PRIMA RESOLUSI
 - Konsisten mengikuti tutorial dari kanal youtube WPU
 - Membangun sebuah aplikasi berbasis web
+- Mengerjakan sebuah project diluar pekerjaan
